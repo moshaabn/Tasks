@@ -1,6 +1,8 @@
 # Task: Build a Todo List App
 
-### Description: Build a todo list app that allows users to create, edit, and delete tasks. The app should display a list of tasks and allow users to mark tasks as completed.
+### Description: 
+#### Build a todo list app that allows users to create, edit, and delete tasks. 
+#### The app should display a list of tasks and allow users to mark tasks as completed.
 
 ### Backend Requirements:
 #### Build a backend using Node.js and Express (You are free to choose database such as mongodb/mysql)
